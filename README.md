@@ -9,6 +9,8 @@ Former TAs/contributers:
  - Emily Chen
  - Julie Jiang
 
+Original repository: https://github.com/echen102/COMM599 
+
 ### Spring 2023 Setup 
 - Anaconda/ Jupyter
 - Google CoLab
