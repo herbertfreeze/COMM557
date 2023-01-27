@@ -12,6 +12,6 @@ Former TAs/contributers:
 Original repository: https://github.com/echen102/COMM599 
 
 ### Spring 2023 Setup 
-- Anaconda/ Jupyter
+- Anaconda/Jupyter
 - Google CoLab
 
