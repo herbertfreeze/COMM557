@@ -3,12 +3,16 @@
 Current TAs: 
  - Meiqing Zhang (meiqingz@usc.edu)
  - Herbert Chang (hochunhe@usc.edu)
+ 
 Former TAs/contributers:
  - Alex Bisberg
  - Emily Chen
  - Julie Jiang
 
-### Spring 2022 Setup 
-- Anaconda/ Jupyter
+Original repository: https://github.com/echen102/COMM599 
+
+### Spring 2023 Setup 
+- Anaconda/Jupyter
 - Google CoLab
+- Other packages are found in the individual tutorials!
 
